@@ -11,7 +11,7 @@ Para información general de YSI, revisa los siguientes enlaces:
 
 ## Documentación
 
-* [Inicio Rápido](y_stringhash/inicio-rapido.md) - Un ejemplo muy simple para empezar a utilizar esta librería.
+* [Guía de inicio rápido](y_stringhash/inicio-rapido.md) - Un ejemplo muy simple para empezar a utilizar esta librería.
 * [Características](y_stringhash/caracteristicas.md) - Más características y ejemplos.
 * [Preguntas frecuentes](y_stringhash/preguntas-frecuentes.md) - Preguntas frecuentes, incluyendo errores y soluciones.
 * [API](y_stringhash/api.md) - Lista completa de todas las funciones y su significado.
