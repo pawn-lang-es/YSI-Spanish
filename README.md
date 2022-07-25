@@ -126,7 +126,7 @@ Librerías que tienen efectos visibles dentro del juego.
 
 ## ¿Qué significan las siglas YSI?
 
-¡Nadie lo sabe! La idea original era *Incluciones al servidor de Y_Less* ("Y_Less' Server Includes"), pero había confusión con la letra 'S', y hay más desarrolladores que solo Y_Less ahora mismo, entonces la "Y" solo se convierte en un acrónimo recursivo para "YSI".  Ahora hay diferentes significados oficiales, cada uno incorporando diferentes aspectos de YSI:
+¡Nadie lo sabe! La idea original era *Inclusiones al servidor de Y_Less* ("Y_Less' Server Includes"), pero había confusión con la letra 'S', y hay más desarrolladores que solo Y_Less ahora mismo, entonces la "Y" solo se convierte en un acrónimo recursivo para "YSI".  Ahora hay diferentes significados oficiales, cada uno incorporando diferentes aspectos de YSI:
 
 ### YSI Script Includes
 
@@ -138,7 +138,7 @@ Librerías de codificación (extensiones al lenguaje Pawn).
 
 ### YSI Server Includes
 
-Aspectos relacinoados al modo de juego (comandos, propiedades, texto, etc).
+Aspectos relacionados al modo de juego (comandos, propiedades, texto, etc).
 
 ### YSI Script Incidentals
 
@@ -146,6 +146,4 @@ Extras, como las librerías para iniciar sesión y los comandos.
 
 ### YSI Seriously Incomprehensible
 
-Los macros (aunque en su defensa, escribir macros para hacer el parsing dentro de los límites del compilador es MUY díficil).
-
-*Traducido al Español por Martin Santiago [(@martiagop)](https://github.com/martiagop)*
+Los macros (aunque en su defensa, escribir macros para hacer el parsing dentro de los límites del compilador es MUY difícil).
