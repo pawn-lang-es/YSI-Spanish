@@ -2,9 +2,9 @@
 
 ## Información general
 
-* [Instalación](installation.md)
-* [Solución de problemas](troubleshooting.md)
-* [Compatibilidad (YSI_COMPATIBILITY_MODE)](YSI_COMPATIBILTY_MODE.md)
+* [Instalación](instalacion.md)
+* [Solución de problemas](solucion-problemas.md)
+* [Compatibilidad (YSI_COMPATIBILITY_MODE)](YSI_COMPATIBILITY_MODE.md)
 
 ## Librerías
 
