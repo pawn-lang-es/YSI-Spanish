@@ -26,9 +26,9 @@ HOOK__ OnPlayerConnect(playerid)
 }
 ```
 
-Esto reduce el chance de cualquier colisión de símbolos con otro include o librería. Por
-ejemplo, YSI y pawn-plus, incluyen un palabra reservada `yield`, y hay diferentes versiones
-de `foreach`.
+Esto reduce el chance de cualquier colisión de símbolos con otra librería o include. Por
+ejemplo, YSI y pawn-plus, ambas incluyen un palabra reservada `yield`, y hay diferentes 
+versiones de `foreach`.
 
 En este modo, aún puedes usar las palabras reservadas normales activándolas explicitamente:
 
