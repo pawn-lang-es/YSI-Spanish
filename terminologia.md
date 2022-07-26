@@ -2,6 +2,8 @@
 
 **Callback:** Se interpreta como una función que es llamada de regreso cuando otra función ha terminado (de ahí *call back* en inglés). 
 
+Por ejemplo, `OnPlayerSpawn(playerid)` es llamado devuelta cuando la función `SpawnPlayer(playerid)` se ha ejecutado. 
+
 **Macro:** 
 
 **Módulo (de modularización):** Elemento con función propia concebido para poder ser agrupado de distintas maneras con otros elementos constituyendo una unidad mayor.
