@@ -1,6 +1,18 @@
 # y_commands
 
-Aquí va la descripción
+El procesador de comandos más completo para SA:MP.  Incluye:
+
+* Internacionalización completa - escriba los comandos en cualquier idioma.
+* Soporte de permisos nativos, cambia dinámicamente quién puede usar un comando en cualquier momento sin necesidad de código dentro del comando.
+* Soporte de y_groups para ampliar el sistema de permisos a equipos, etc.
+* Ayuda integrada, para que cada comando pueda tener fácilmente su texto de ayuda definido junto a su código.
+* Múltiples comprobaciones de comandos ocultos/desactivados/errorizados.
+* Cambiar el prefijo del comando de `/`.
+* "OnPlayerCommandReceived" y "OnPlayerCommandPerformed".
+* Renombrar comandos a nivel de jugador (por ejemplo, para tener el mismo comando en varios idiomas).
+* Nombres alternativos para el mismo comando.
+* Soporte de multi-script (filterscript).
+* Iteradores `Command()` y `PlayerCommand()` para usar con `foreach`.
 
 ## YSI
 
